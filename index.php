@@ -1,3 +1,7 @@
 <?php echo php(); ?>
 
-Rajnik 6u
+echo "mayur";
+
+hi there
+?>
+
