@@ -1,6 +1,7 @@
-<?php echo php(); 
+<?php echo php(); ?>
 
 echo "mayur";
 
 hi there
 ?>
+
